@@ -1,5 +1,10 @@
-- 👋 Hi, I’m link0002
-- 👀 I’m interested in python programing
+- 我是 link0002
+- 学习：
+  - python
+  - AI
+  - Dify
+  - ragflow
+  - ...
 
 <!---
 link0002/link0002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
